@@ -1,5 +1,5 @@
 # Masterclass
-This is a repo from [AEC Tech 2021](https://www.aectech.us/workshops)
+This is a repo from [AEC Tech](https://www.aectech.us/) [2021](https://www.aectech.us/workshops)
 
 **Revit API. Journey From Beginner to Master in One Course**
 [BAD MONKEYS](https://www.badmonkeys.net/) | [KONRAD SOBON](https://www.linkedin.com/in/konrad-k-sobon-05457219/)   
