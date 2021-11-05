@@ -8,4 +8,4 @@ We will go from start to finish in setting up a Revit API project. There is a li
 
 Repo created by Konrad during the masterclass is [HERE](https://github.com/ksobon/Masterclass)   
 
-Masterclass example Repo is [HERE](https://github.com/ksobon/AECTech) it includes samples that we weren't able to get to in the class. It is a much more complete example   
+Masterclass example Repo is [HERE](https://github.com/ksobon/AECTech), it includes samples that we weren't able to get to in the class. It is a much more complete example   
