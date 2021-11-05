@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Masterclass</Name>
+		<Assembly>Masterclass\Masterclass.Revit.2021.dll</Assembly>
+		<AddInId>43c64790-5d50-49a9-946c-3b19ab860150</AddInId>
+		<FullClassName>Masterclass.Revit.AppCommand</FullClassName>
+		<VendorId>The BIMsider</VendorId>
+		<VendorDescription>Carl Storms aka The BIMsider</VendorDescription>
+	</AddIn>
+</RevitAddIns>
